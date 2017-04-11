@@ -1,2 +1,2 @@
-# colombian-python-communties
-This repositorio contains the list of the python communities in Colombia
+# Colombian python communties
+The following are the python communities across the colombian territory:
