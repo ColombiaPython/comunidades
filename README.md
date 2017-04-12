@@ -21,11 +21,11 @@ Python Bucaramanga: [Meetup](https://www.meetup.com/PythonBucaramanga/)
 
 Python Cali: [Meetup](https://www.meetup.com/Python-Cali/)
 
-Python Cúcuta: [Meetup](https://www.meetup.com/Python-Cucuta/)
+Python Cúcuta: [Meetup](https://www.meetup.com/Python-Cucuta/), [Facebook](https://www.facebook.com/PythonCucuta/)
 
 Python Santa Marta: [Meetup](https://www.meetup.com/python-santamarta/)
 
-Python Barranquilla: [Meetup](https://www.meetup.com/pythonbaq/), [Facebook](https://www.facebook.com/groups/813920708682845/?ref=br_rs)
+Python Barranquilla: [Meetup](https://www.meetup.com/pythonbaq/), [Facebook](https://www.facebook.com/groups/813920708682845/)
 
 Python Arauca: [Meetup](https://www.meetup.com/PythonArauca/)
 
