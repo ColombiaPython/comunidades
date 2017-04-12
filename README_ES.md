@@ -21,7 +21,7 @@ Python Bucaramanga: [Meetup](https://www.meetup.com/PythonBucaramanga/)
 
 Python Cali: [Meetup](https://www.meetup.com/Python-Cali/)
 
-Python Cucuta: [Meetup](https://www.meetup.com/Python-Cucuta/)
+Python Cúcuta: [Meetup](https://www.meetup.com/Python-Cucuta/)
 
 Python Santa Marta: [Meetup](https://www.meetup.com/python-santamarta/)
 
