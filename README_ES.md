@@ -1,13 +1,13 @@
 # Comunidades de Python en Colombia
-(To read this page in english, [please click here](https://github.com/ColombiaPython/communties/blob/master/README.md) )
+(To read this page in english, [click here](https://github.com/ColombiaPython/communties/blob/master/README.md) )
 
 Las siguientes son las comunidades python a lo largo del territorio colombiano:
 
 ## Comunidades nacionales:
 
-Python Colombia: [Facebook Page](https://www.facebook.com/ColombiaPython/) , [Facebook group](https://www.facebook.com/groups/pythonco/), [Twitter](https://twitter.com/colombiapython), [Medium](https://medium.com/@pythoncolombia), [Slack](https://python-colombia.slack.com), [Github](github.com/colombiapython)
+Python Colombia: [Facebook Page](https://www.facebook.com/ColombiaPython/) , [Facebook group](https://www.facebook.com/groups/pythonco/), [Twitter](https://twitter.com/colombiapython), [Medium](https://medium.com/@pythoncolombia), [Slack](https://python-colombia.slack.com), [Github](https://github.com/ColombiaPython)
 
-PyCon Colombia: [Facebook](https://www.facebook.com/pyconcolombia), [Twitter](https://twitter.com/pyconcolombia), [Medium](https://medium.com/@pyconcolombia) , [Instagram](https://instagram.com/pyconcolombia/)
+PyCon Colombia: [Facebook](https://www.facebook.com/pyconcolombia), [Twitter](https://twitter.com/pyconcolombia), [Medium](https://medium.com/@pyconcolombia) , [Instagram](https://instagram.com/pyconcolombia/), [Github](https://github.com/pyconcolombia)
 
 Django Girls Colombia: [Facebook](https://www.facebook.com/djangogirlscolombia), [Twitter](https://twitter.com/djangogirlsco) 
 
