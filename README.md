@@ -27,7 +27,7 @@ Python Cúcuta: [Meetup](https://www.meetup.com/Python-Cucuta/)
 
 Python Santa Marta: [Meetup](https://www.meetup.com/python-santamarta/)
 
-Python Barranquilla: [Meetup](https://www.meetup.com/pythonbaq/), [Facebook](https://www.facebook.com/groups/813920708682845/?ref=br_rs)
+Python Barranquilla: [Meetup](https://www.meetup.com/pythonbaq/), [Facebook Page](https://www.facebook.com/pybaq/) , [Facebook group](https://www.facebook.com/groups/813920708682845), [Twitter](https://twitter.com/pybaq), [Slack](https://pybaq.slack.com), [Github](https://github.com/PyBAQ), [Website](http://pybaq.co/)
 
 PyData Bogotá: [Meetup](https://www.meetup.com/PyData-Bogota/)
 
