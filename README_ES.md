@@ -39,4 +39,4 @@ Python Popayán: [Facebook](https://www.facebook.com/pythonistapopayan/)
 
 Python Pasto: [Meetup](https://www.meetup.com/Pasto-Python/)
 
-Python Cartagena: [Facebook group](https://www.facebook.com/groups/pydjctg) [Facebook page](https://www.facebook.com/Python-CTG-122260291668601/) [Meetup](https://www.meetup.com/Python-Django-CTG/)
+Python Cartagena: [Facebook group](https://www.facebook.com/groups/pydjctg), [Facebook page](https://www.facebook.com/Python-CTG-122260291668601/), [Meetup](https://www.meetup.com/Python-Django-CTG/)
