@@ -9,7 +9,7 @@ Python Colombia: [Facebook Page](https://www.facebook.com/ColombiaPython/) , [Fa
 
 PyCon Colombia: [Facebook](https://www.facebook.com/pyconcolombia), [Twitter](https://twitter.com/pyconcolombia), [Medium](https://medium.com/@pyconcolombia) , [Instagram](https://instagram.com/pyconcolombia/), [Github](https://github.com/pyconcolombia)
 
-Django Girls Colombia: [Facebook](https://www.facebook.com/djangogirlscolombia), [Twitter](https://twitter.com/djangogirlsco) 
+Django Girls Colombia: [Facebook](https://www.facebook.com/djangogirlscolombia), [Twitter](https://twitter.com/djangogirlsco)
 
 ## City Communities:
 
@@ -38,3 +38,5 @@ Python Tunja: [Meetup](https://www.meetup.com/PythonTunja/)
 Python Popayán: [Facebook](https://www.facebook.com/pythonistapopayan/)
 
 Python Pasto: [Meetup](https://www.meetup.com/Pasto-Python/)
+
+Python Cartagena: [Facebook group](https://www.facebook.com/groups/pydjctg) [Facebook page](https://www.facebook.com/Python-CTG-122260291668601/) [Meetup](https://www.meetup.com/Python-Django-CTG/)
