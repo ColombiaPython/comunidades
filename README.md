@@ -25,7 +25,7 @@ Pyladies Medellín: [Meetup](https://www.meetup.com/Python-Ladies-Medellin/), [F
 
 Python Cúcuta: [Meetup](https://www.meetup.com/Python-Cucuta/)
 
-Python Santa Marta: [Meetup](https://www.meetup.com/python-santamarta/)
+Python Santa Marta: [Meetup](https://www.meetup.com/python-santamarta/), [Facebook](https://www.facebook.com/pythonsantamarta/)
 
 Python Barranquilla: [Meetup](https://www.meetup.com/pythonbaq/), [Facebook](https://www.facebook.com/groups/813920708682845/?ref=br_rs)
 
