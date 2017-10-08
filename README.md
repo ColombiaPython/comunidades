@@ -38,3 +38,5 @@ Python Tunja: [Meetup](https://www.meetup.com/PythonTunja/)
 Python Popayán: [Facebook](https://www.facebook.com/pythonistapopayan/)
 
 Python Pasto: [Meetup](https://www.meetup.com/Pasto-Python/)
+
+PyPereira - Python Pereira: [Website](http://PyPereira.co), [Facebook](https://www.facebook.com/pythonpereira), [Twitter](https://twitter.com/pythonpereira), [Instagram](https://instagram.com/pythonpereira)
