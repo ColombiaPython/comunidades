@@ -23,7 +23,7 @@ Python Cali: [Meetup](https://www.meetup.com/Python-Cali/), [Facebook](https://w
 
 Pyladies Medellín: [Meetup](https://www.meetup.com/Python-Ladies-Medellin/), [Facebook](https://www.facebook.com/pyladiesmedellin/)
 
-Python Cúcuta: [Meetup](https://www.meetup.com/Python-Cucuta/)
+Python Cúcuta: [Meetup](https://www.meetup.com/Python-Cucuta/), [FaceBook](https://www.facebook.com/PythonCucuta/), [Twitter](https://twitter.com/PythonCucuta)
 
 Python Santa Marta: [Meetup](https://www.meetup.com/python-santamarta/)
 
@@ -38,3 +38,5 @@ Python Tunja: [Meetup](https://www.meetup.com/PythonTunja/)
 Python Popayán: [Facebook](https://www.facebook.com/pythonistapopayan/)
 
 Python Pasto: [Meetup](https://www.meetup.com/Pasto-Python/)
+
+PyPereira - Python Pereira: [Website](http://PyPereira.co), [Facebook](https://www.facebook.com/pythonpereira), [Twitter](https://twitter.com/pythonpereira), [Instagram](https://instagram.com/pythonpereira)
