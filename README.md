@@ -6,18 +6,20 @@ Las siguientes son las comunidades python a lo largo del territorio colombiano:
 
 ## Comunidades Nacionales:
 
-Python Colombia: [Facebook Page](https://www.facebook.com/ColombiaPython/) , [Facebook group](https://www.facebook.com/groups/pythonco/), [Twitter](https://twitter.com/colombiapython), [Medium](https://medium.com/@pythoncolombia), [Slack](https://python-colombia.slack.com), [Github](https://github.com/ColombiaPython), [Website](https://www.python-colombia.org/)
-
-PyCon Colombia: [Facebook](https://www.facebook.com/pyconcolombia), [Twitter](https://twitter.com/pyconcolombia), [Medium](https://medium.com/@pyconcolombia) , [Instagram](https://instagram.com/pyconcolombia/), [Github](https://github.com/pyconcolombia)
-
 Django Girls Colombia: [Facebook](https://www.facebook.com/djangogirlscolombia), [Twitter](https://twitter.com/djangogirlsco) 
+
+PyCon Colombia: [Sitio Web](https://www.pycon.co), [Facebook](https://www.facebook.com/pyconcolombia), [Twitter](https://twitter.com/pyconcolombia), [Medium](https://medium.com/@pyconcolombia) , [Instagram](https://instagram.com/pyconcolombia/), [Github](https://github.com/pyconcolombia)
+
+PyLadies Colombia: [Sitio Web](), [Facebook](), [Twitter]()
+
+Python Colombia: [Sitio Web](https://www.python.org.co), [Página de Facebook](https://www.facebook.com/ColombiaPython/) , [Grupo de Facebook](https://www.facebook.com/groups/pythonco/), [Twitter](https://twitter.com/colombiapython), [Medium](https://medium.com/@pythoncolombia), [Slack](https://python-colombia.slack.com), [Telegram](https://t.me/pythoncolombia), [Github](https://github.com/ColombiaPython)
 
 ## Comunidades locales por departamento:
 
 ### Antioquia
 
-* Python Medellín: [Meetup](https://www.meetup.com/Medellin-Python-y-Django-Meetup/), [Facebook](https://www.facebook.com/pythonmedellin/)
 * Pyladies Medellín: [Meetup](https://www.meetup.com/Python-Ladies-Medellin/), [Facebook](https://www.facebook.com/pyladiesmedellin/)
+* Python Medellín: [Meetup](https://www.meetup.com/Medellin-Python-y-Django-Meetup/), [Facebook](https://www.facebook.com/pythonmedellin/)
 
 ### Atlántico
 
@@ -41,9 +43,8 @@ Django Girls Colombia: [Facebook](https://www.facebook.com/djangogirlscolombia),
 
 ### Cundinamarca
 
-* Python Bogotá: [Meetup](https://www.meetup.com/es/pythoncolombia-bogota/)
-* Django Bogotá: [Meetup](https://www.meetup.com/Django-Bogota/)
 * PyData Bogotá: [Meetup](https://www.meetup.com/PyData-Bogota/)
+* Python Bogotá: [Meetup](https://www.meetup.com/es/pythonbogota/)
 
 ### Huila
 
@@ -52,6 +53,10 @@ Django Girls Colombia: [Facebook](https://www.facebook.com/djangogirlscolombia),
 ### Magdalena
 
 * Python Santa Marta: [Meetup](https://www.meetup.com/python-santamarta/), [Facebook](https://www.facebook.com/pythonsantamarta/)
+
+### Meta
+
+* Python Villavicencio: [Facebook](https://www.facebook.com/pythonvi/)
 
 ### Nariño
 
@@ -68,6 +73,10 @@ Django Girls Colombia: [Facebook](https://www.facebook.com/djangogirlscolombia),
 ### Santander
 
 * Python Bucaramanga: [Meetup](https://www.meetup.com/PythonBucaramanga/), [Facebook](https://www.facebook.com/PythonBucaramanga/), [Twitter](https://www.twitter.com/PyBuc/)
+
+### Sucre
+
+* Python Sincelejo: [Facebook](https://www.facebook.com/PythonSincelejo/)
 
 ### Valle del Cauca
 
