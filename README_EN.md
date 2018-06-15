@@ -21,7 +21,7 @@ Django Girls Colombia: [Facebook](https://www.facebook.com/djangogirlscolombia),
 
 ### Atlántico
 
-* Python Barranquilla: [Meetup](https://www.meetup.com/pythonbaq/), [Facebook Page](https://www.facebook.com/pybaq/) , [Facebook group](https://www.facebook.com/groups/813920708682845), [Twitter](https://twitter.com/pybaq), [Slack](https://pybaq.slack.com), [Github](https://github.com/PyBAQ), [Website](http://pybaq.co/)
+* Python Barranquilla: [Website](http://pybaq.co/), [Meetup](https://www.meetup.com/pythonbaq/), [Facebook Page](https://www.facebook.com/pybaq/) , [Facebook group](https://www.facebook.com/groups/813920708682845), [Twitter](https://twitter.com/pybaq), [Slack](https://pybaq.slack.com), [Github](https://github.com/PyBAQ)
 
 ### Arauca
 
@@ -29,7 +29,7 @@ Django Girls Colombia: [Facebook](https://www.facebook.com/djangogirlscolombia),
 
 ### Bolívar
 
-* Python Cartagena: [Meetup](https://www.meetup.com/Python-Django-CTG/), [Grupo de Facebook](https://www.facebook.com/groups/pydjctg), [Pagina de Facebook](https://www.facebook.com/Python-CTG-122260291668601/)
+* Python Cartagena: [Meetup](https://www.meetup.com/Python-Django-CTG/), [Facebook Page](https://www.facebook.com/Python-CTG-122260291668601/), [Facebook Group](https://www.facebook.com/groups/pydjctg)
 
 ### Boyacá
 
