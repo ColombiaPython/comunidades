@@ -1,9 +1,9 @@
-# Colombian python communities
-(Para leer ésta pagina en español, [haz clic aquí](https://github.com/ColombiaPython/communities/blob/master/README_ES.md) )
+# Comunidades de Python en Colombia
+(To read this page in english, [click here](https://github.com/ColombiaPython/communities/blob/master/README_EN.md) )
 
-The following are the python communities across the colombian territory:
+Las siguientes son las comunidades python a lo largo del territorio colombiano:
 
-## National Communities:
+## Comunidades nacionales:
 
 Python Colombia: [Facebook Page](https://www.facebook.com/ColombiaPython/) , [Facebook group](https://www.facebook.com/groups/pythonco/), [Twitter](https://twitter.com/colombiapython), [Medium](https://medium.com/@pythoncolombia), [Slack](https://python-colombia.slack.com), [Github](https://github.com/ColombiaPython), [Website](https://www.python-colombia.org/)
 
@@ -11,7 +11,7 @@ PyCon Colombia: [Facebook](https://www.facebook.com/pyconcolombia), [Twitter](ht
 
 Django Girls Colombia: [Facebook](https://www.facebook.com/djangogirlscolombia), [Twitter](https://twitter.com/djangogirlsco)
 
-## City Communities:
+## Comunidades por ciudad:
 
 Django Bogotá: [Meetup](https://www.meetup.com/Django-Bogota/)
 
@@ -23,7 +23,7 @@ Python Cali: [Meetup](https://www.meetup.com/Python-Cali/), [Facebook](https://w
 
 Pyladies Medellín: [Meetup](https://www.meetup.com/Python-Ladies-Medellin/), [Facebook](https://www.facebook.com/pyladiesmedellin/)
 
-Python Cúcuta: [Meetup](https://www.meetup.com/Python-Cucuta/), [FaceBook](https://www.facebook.com/PythonCucuta/), [Twitter](https://twitter.com/PythonCucuta)
+Python Cúcuta: [Meetup](https://www.meetup.com/Python-Cucuta/), [Facebook](https://www.facebook.com/PythonCucuta/), [Twitter](https://twitter.com/PythonCucuta)
 
 Python Santa Marta: [Meetup](https://www.meetup.com/python-santamarta/), [Facebook](https://www.facebook.com/pythonsantamarta/)
 
@@ -39,6 +39,6 @@ Python Popayán: [Facebook](https://www.facebook.com/pythonistapopayan/)
 
 Python Pasto: [Meetup](https://www.meetup.com/Pasto-Python/)
 
-Python Cartagena: [Facebook group](https://www.facebook.com/groups/pydjctg), [Facebook page](https://www.facebook.com/Python-CTG-122260291668601/), [Meetup](https://www.meetup.com/Python-Django-CTG/)
+Python Cartagena: [Grupo de Facebook](https://www.facebook.com/groups/pydjctg), [Pagina de Facebook](https://www.facebook.com/Python-CTG-122260291668601/), [Meetup](https://www.meetup.com/Python-Django-CTG/)
 
 Python Pereira: [Website](http://PyPereira.co), [Facebook](https://www.facebook.com/pythonpereira), [Twitter](https://twitter.com/pythonpereira), [Instagram](https://instagram.com/pythonpereira)
