@@ -80,4 +80,4 @@ Python Colombia: [Sitio Web](https://www.python.org.co), [Página de Facebook](h
 
 ### Valle del Cauca
 
-* Python Cali: [Meetup](https://www.meetup.com/Python-Cali/), [Facebook](https://www.facebook.com/pythoncali/), [Website](www.pythoncali.com)
+* Python Cali: [Meetup](https://www.meetup.com/Python-Cali/), [Facebook](https://www.facebook.com/pythoncali/), [Website](https://www.pythoncali.com)
