@@ -18,7 +18,7 @@ Python Colombia: [Sitio Web](https://www.python.org.co), [Página de Facebook](h
 
 ### Antioquia
 
-* Pyladies Medellín: [Meetup](https://www.meetup.com/Python-Ladies-Medellin/), [Página de Facebook](https://www.facebook.com/pyladiesmedellin/), [Twitter](https://twitter.com/pyladiesmed)
+* PyLadies Medellín: [Meetup](https://www.meetup.com/Python-Ladies-Medellin/), [Página de Facebook](https://www.facebook.com/pyladiesmedellin/), [Twitter](https://twitter.com/pyladiesmed)
 * Python Medellín: [Meetup](https://www.meetup.com/Medellin-Python-y-Django-Meetup/), [Página de Facebook](https://www.facebook.com/pythonmedellin/)
 
 ### Atlántico
